@@ -29,7 +29,7 @@ Se eligió por su soporte en buenas prácticas de accesibilidad y su ecosistema.
 
 -Carpeta public/ para imágenes.
 
--Semántica en HTML. Uso de etiquetas correctas (<header>, <main>, <footer>, <article>).
+-Semántica en HTML. 
 
 -Esto mejora la comprensión para tecnologías de asistencia.
 
