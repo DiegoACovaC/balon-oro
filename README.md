@@ -87,4 +87,10 @@ D)Usuarios con discapacidad cognitiva
 -Los formularios muestran mensajes de error claros en caso de que falte información.
 
 
+
+
 "TODO EL CODIGO SE ENCUENTRA EN LA CARPETA SRC ARCHIVO App.jsx"
+
+
+
+"Evidencias de como se ve la pagina en la carpeta evidencias"
